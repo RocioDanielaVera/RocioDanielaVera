@@ -1,7 +1,7 @@
 Hi 👋 My name is Rocio
 ======================
 
-Java Developer - Full Stack Android Developer
+Java Developer - Android Developer
 ---------------------------------------------
 
 Soy una estudiante apasionada por aprender y siempre dispuesta a nuevos desafios.
