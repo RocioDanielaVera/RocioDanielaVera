@@ -1,4 +1,3 @@
-<img width="508" height="272" alt="Hackathon" src="https://github.com/user-attachments/assets/ee268aa3-c7a0-4ab5-b478-6273d764c625" />
 
 ![Banner de Rocio Vera](banner-rocio-vera.png)
 <h3 align="left">About Me</h3>
