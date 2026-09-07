@@ -78,7 +78,7 @@
   <tr>
     <!-- CARD 4 -->
     <td width="33.3%" valign="top">
-      <img alt="Emprender (1)" src="https://github.com/user-attachments/assets/6562cf35-ae6c-4af7-8693-e8e725add8b0" width="100%" style="border-radius: 6px;">
+      <img alt="twitter" src="https://githubcard.com/unlam-tec-movil/A2-2025-H2-E1.svg?d=hSA9F_SBji9D" width="100%" style="border-radius: 6px;">
       <br><br>
       <h3>Simulación Twitter</h3>
       <sup><font color="gray">Mobile App • iOS / Android</font></sup>
@@ -114,7 +114,7 @@
     </td>
     <!-- CARD 6 -->
     <td width="33.3%" valign="top">
-      <img src="https://github.com/user-attachments/assets/1d8c62cb-3575-46aa-a0eb-2625d4c84540" width="100%" alt="Preview 6" style="border-radius: 6px;">
+      <img src="https://github.com/user-attachments/assets/2b964594-3235-46d7-b7e8-2e85fcac86d4" width="100%" alt="Preview 6" style="border-radius: 6px;">
       <br><br>
       <h3>Emprender</h3>
       <sup><font color="gray">Talento Tech • UX • Equipo de 2 </font></sup>
