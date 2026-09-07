@@ -155,7 +155,7 @@
 
 <h4 align="left">Diseño UX/UI</h4>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  <img src="https://img.shields.io/badge/ux%20pilot-brightgreen?style=for-the-badge&color=6B7280" alt="Room">
 
 <h4 align="left">CI/CD </h4>
 
