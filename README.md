@@ -20,6 +20,45 @@
 <h2 align="left"></h2>
 <h3 align="left">Proyectos Destacados</h3>
 
+<table width="100%">
+  <tr>
+    <!-- Columna 1 / Tarjeta 1 -->
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>Argendar</h3>
+        <p>Aplicación Web. Conecta a clientes y profesionales tecnicos del hogar como plomería, electricidad y refrigeración..</p>
+        <p>
+          <img src="https://shields.io" alt="React">
+          <img src="https://shields.io" alt="Tailwind">
+        </p>
+        <a href="#"><b>Ver Código →</b></a>
+      </div>
+    </td>
+    <!-- Columna 2 / Tarjeta 2 -->
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>Donaciones M</h3>
+        <p>Aplicación móvil. Conecta a familias vulnerables y donatarios locales de alimentos u/o electrodomesticos para el hogar.</p>
+        <p>
+          <img src="https://shields.io" alt="Kotlin">
+          <img src="https://shields.io" alt="Jetpack Compose">
+        </p>
+        <a href="#"><b>Ver Código →</b></a>
+      </div>
+    </td>
+    <!-- Columna 3 / Tarjeta 3 -->
+    <td width="33.3%" valign="top">
+      <div align="center">
+        <h3>Cazadores de recompenzas</h3>
+        <p>Breve descripción del tercer proyecto. Ideal para mostrar tu variedad de habilidades.</p>
+        <p>
+          <img src="https://shields.io" alt="Java">
+        </p>
+        <a href="#"><b>Ver Código →</b></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 
