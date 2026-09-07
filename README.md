@@ -36,6 +36,7 @@
         <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=6B7280" alt="Javascript">
         <img src="https://img.shields.io/badge/Node-brightgreen?style=for-the-badge&color=6B7280" alt="Node">
         <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=6B7280" alt="Supabase">
+        <img src="https://img.shields.io/badge/Google%20Maps%20Api-brightgreen?style=for-the-badge&color=6B7280" alt="Google Maps API">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
@@ -105,9 +106,9 @@
         <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=6B7280" alt="React">
         <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=6B7280" alt="Javascript">
         <img src="https://img.shields.io/badge/Tanstack%20Query-brightgreen?style=for-the-badge&color=6B7280" alt="Tanstack Query">
-        <img src="https://shields.io" alt="React Router Dom">
-        <img src="https://shields.io" alt="Java">
-        <img src="https://shields.io" alt="Springboot">
+        <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=6B7280" alt="React Router Dom">
+        <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&color=6B7280" alt="java">
+        <img src="https://img.shields.io/badge/Spring%20boot-brightgreen?style=for-the-badge&color=6B7280" alt="Springboot">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
@@ -122,11 +123,11 @@
       <sup><font color="gray">Talento Tech • UX • Equipo de 2 </font></sup>
       <p> Aplicación móvil. Busca impulsar la venta de  emprendedores locales y expandir sus negocios a diferentes zonas de la cuidad de Buenos Aires.</p>
       <p>
-        <img src="https://shields.io" alt="Kotlin">
-        <img src="https://shields.io" alt="Jetpack compose">
-        <img src="https://shields.io" alt="Firebase">
-        <img src="https://shields.io" alt="Room">
-        <img src="https://shields.io" alt="Google Maps API">
+        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
+        <img src="https://img.shields.io/badge/firebase-brightgreen?style=for-the-badge&color=6B7280" alt="Firebase">
+        <img src="https://img.shields.io/badge/Room-brightgreen?style=for-the-badge&color=6B7280" alt="Room">
+        <img src="https://img.shields.io/badge/Google%20Maps%20Api-brightgreen?style=for-the-badge&color=6B7280" alt="Google Maps API">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
