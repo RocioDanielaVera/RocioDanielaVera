@@ -110,6 +110,7 @@
       <p align="center">
         <a href="https://www.figma.com/design/TM8AxzfW899PGVereOPLfX/Hackathon2026---Equipo-3?node-id=375-9593&t=47fcNc5Tfld08TWN-1">📁 Ir a Figma</a> 
       </p>
+      <br><br>
     </td>
     <!-- CARD 6 -->
     <td width="33.3%" valign="top">
@@ -129,6 +130,7 @@
       <p align="center">
         <a href="#">📁Ver presentación - Aplicación próximamente en Github</a>
       </p>
+      <br><br>
     </td>
   </tr>
 </table>
