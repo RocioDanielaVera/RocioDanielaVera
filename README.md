@@ -79,7 +79,7 @@
       <br><br>
       <h3>Simulación Twitter</h3>
       <sup><font color="gray">Mobile App • iOS / Android</font></sup>
-      <p>Clon funcional de Twitter (X) enfocado en arquitectura escalable, actualizaciones en tiempo real y simulando funciones nativas: creación de tweets, me gusta y retweets.</p>
+      <p>Clon funcional de Twitter (X) enfocado en arquitectura escalable, actualizaciones en tiempo real y simulando funciones nativas: creación de tweets, me gusta, retweets y más.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
         <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
@@ -97,7 +97,7 @@
       <br><br>
       <h3>Hackathon - Patronato Play</h3>
       <sup><font color="gray">JP Morgan Chase • UX/UI • Equipo de 6 • </font></sup>
-      <p> Solución para llegar al público joven. Transformamos el proceso de donación en una experiencia emocional/visible mediante un avatar que evoluciona con el impacto de cada contribución. </p>
+      <p> Transformamos el proceso de donación en una experiencia emocional/visible mediante un avatar que evoluciona con el impacto de cada donación. Nuestro objetivo es acercarnos a un publico joven/niños e impulsar su habito de donar</p>
       <p>
         <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=6B7280" alt="React">
         <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=6B7280" alt="Javascript">
@@ -118,7 +118,7 @@
       <br><br>
       <h3>Emprender</h3>
       <sup><font color="gray">Talento Tech • UX • Equipo de 2 </font></sup>
-      <p> Aplicación móvil. Busca impulsar la venta de  emprendedores locales y expandir sus negocios a diferentes zonas de la cuidad de Buenos Aires.</p>
+      <p> Aplicación móvil. Busca impulsar la venta de emprendedores locales y expandir sus negocios a diferentes zonas de la cuidad de Buenos Aires.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
         <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
