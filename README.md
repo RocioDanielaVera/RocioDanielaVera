@@ -113,7 +113,7 @@
     </td>
     <!-- CARD 6 -->
     <td width="33.3%" valign="top">
-      <img src="https://placeholder.com" width="100%" alt="Preview 6" style="border-radius: 6px;">
+      <img src="https://github.com/user-attachments/assets/1d8c62cb-3575-46aa-a0eb-2625d4c84540" width="100%" alt="Preview 6" style="border-radius: 6px;">
       <br><br>
       <h3>Emprender</h3>
       <sup><font color="gray">Talento Tech • UX • Equipo de 2 </font></sup>
