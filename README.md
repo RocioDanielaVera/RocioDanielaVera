@@ -1,6 +1,6 @@
 
 <h2 align="left">Sobre mi</h2>
-<p align="left">Desarrollador de software especializado en aplicaciones Android. Me centro en crear experiencias digitales intuitivas con una sólida visión del diseño UX y la automatización de procesos.</</p>
+<p align="left">Desarrolladora software especializada en aplicaciones Android. Me centro en crear experiencias digitales intuitivas con una sólida visión del diseño UX y la automatización de procesos.</</p>
 
 ###
 <h3 align="left">¿Qué me motiva?</h3>
@@ -11,7 +11,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RocioDanielaVera&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=RocioDanielaVera&include_all_commits=true&theme=dark)
 ### 
 <h2 align="left"></h2>
-<h3 align="left">Proyectos Destacados</h3>
+<h2 align="left">Proyectos Destacados</h2>
 
 <table width="100%">
   <tr>
@@ -137,7 +137,7 @@
 
 ###
 <h2 align="left"></h2>
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 
 <h4 align="left">Organización</h4>
 
