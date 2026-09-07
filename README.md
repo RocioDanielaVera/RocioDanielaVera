@@ -137,23 +137,6 @@
 
 ###
 
-<h4 align="left">Backend</h4>
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=6B7280" alt="Supabase">
-
-<h4 align="left">Frontend</h4>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=6B7280" alt="React Router Dom"> <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
-
-
-
-
-
-<h4 align="left">CI/CD </h4>
-
-![Vercel](https://devbio.me/api/tools/badges/vercel.svg) ![Docker](https://devbio.me/api/tools/badges/docker.svg)
-
-
  <h2 align="left">Tech Stack</h2>
 
 <table width="100%">
@@ -176,23 +159,23 @@
     <tr>
       <td valign="middle"><b> Organización</b></td>
       <td>
-        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&color=6B7280" alt="Jira">
         <img src="https://img.shields.io/badge/NOTION-brightgreen?style=for-the-badge&color=6B7280" alt="Notion">
         <img src="https://img.shields.io/badge/Trello-brightgreen?style=for-the-badge&color=6B7280" alt="Trello">
       </td>
     </tr>
     <!-- FRONTEND -->
     <tr>
-      <td valign="middle"><b>💻 Frontend</b></td>
+      <td valign="middle"><b> Frontend</b></td>
       <td>
-        <img src="https://shields.io" alt="HTML5">
-        <img src="https://shields.io" alt="CSS3">
-        <img src="https://shields.io" alt="React">
-        <img src="https://shields.io" alt="Vite">
-        <img src="https://shields.io" alt="TailwindCSS">
-        <img src="https://shields.io" alt="React Router">
-        <img src="https://shields.io" alt="React Hook Form">
-        <img src="https://shields.io" alt="Jetpack Compose">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=6B7280" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=6B7280" alt="CSS3">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=6B7280" alt="React">
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=6B7280" alt="Vite">
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+        <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=6B7280" alt="React Router Dom">
+        <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white&color=6B7280" alt="React Hook Form">
+        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
       </td>
     </tr>
     <!-- BACKEND & DATABASES -->
@@ -212,17 +195,17 @@
     <tr>
       <td valign="middle"><b> Testing</b></td>
       <td>
-        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress">
-        <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e&color=6B7280" alt="Cypress">
+        <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&color=6B7280" alt="Selenium">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=6B7280" alt="Postman">
       </td>
     </tr>
     <!-- CI/CD & DEVOPS -->
     <tr>
       <td valign="middle"><b> CI/CD & DevOps</b></td>
       <td>
-        <img src="https://shields.io" alt="Vercel">
-        <img src="https://shields.io" alt="Docker">
+        <img src="https://devbio.me/api/tools/badges/vercel.svg" alt="Vercel">
+        <img src="https://devbio.me/api/tools/badges/docker.svg" alt="Docker">
       </td>
     </tr>
   </tbody>
