@@ -136,12 +136,6 @@
 ###
 
 ###
-<h2 align="left"></h2>
-<h2 align="left">Tech Stack</h2>
-
-<h4 align="left">Organización</h4>
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  <img src="https://img.shields.io/badge/NOTION-brightgreen?style=for-the-badge&color=6B7280" alt="Notion">  <img src="https://img.shields.io/badge/Trello-brightgreen?style=for-the-badge&color=6B7280" alt="trello">
 
 <h4 align="left">Backend</h4>
 
@@ -151,43 +145,40 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=6B7280" alt="React Router Dom"> <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
 
-<h4 align="left">Diseño UX/UI</h4>
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  <img src="https://img.shields.io/badge/ux%20pilot-brightgreen?style=for-the-badge&color=6B7280" alt="Room">
+
+
 
 <h4 align="left">CI/CD </h4>
 
 ![Vercel](https://devbio.me/api/tools/badges/vercel.svg) ![Docker](https://devbio.me/api/tools/badges/docker.svg)
 
-<h4 align="left">Testing </h4>
-
- ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
  <h2 align="left">Tech Stack</h2>
 
 <table width="100%">
   <thead>
     <tr bgcolor="#1f2328">
-      <th width="25%" align="left">📂 Categoría</th>
-      <th width="75%" align="left">🛠️ Tecnologías</th>
+      <th width="25%" align="left"> Categoría</th>
+      <th width="75%" align="left"> Tecnologías</th>
     </tr>
   </thead>
   <tbody>
     <!-- DISEÑO UX/UI -->
     <tr>
-      <td valign="middle"><b>🎨 Diseño UX/UI</b></td>
+      <td valign="middle"><b> Diseño UX/UI</b></td>
       <td>
-        <img src="https://shields.io" alt="Figma">
-        <img src="https://shields.io" alt="UX Pilot">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=6B7280" alt="Figma">
+        <img src="https://img.shields.io/badge/ux%20pilot-brightgreen?style=for-the-badge&color=6B7280" alt="ux-pilot">
       </td>
     </tr>
     <!-- ORGANIZACIÓN -->
     <tr>
-      <td valign="middle"><b>📋 Organización</b></td>
+      <td valign="middle"><b> Organización</b></td>
       <td>
-        <img src="https://shields.io" alt="Jira">
-        <img src="https://shields.io" alt="Notion">
-        <img src="https://shields.io" alt="Trello">
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+        <img src="https://img.shields.io/badge/NOTION-brightgreen?style=for-the-badge&color=6B7280" alt="Notion">
+        <img src="https://img.shields.io/badge/Trello-brightgreen?style=for-the-badge&color=6B7280" alt="Trello">
       </td>
     </tr>
     <!-- FRONTEND -->
@@ -206,10 +197,10 @@
     </tr>
     <!-- BACKEND & DATABASES -->
     <tr>
-      <td valign="middle"><b>⚙️ Backend & DBs</b></td>
+      <td valign="middle"><b> Backend & DBs</b></td>
       <td>
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=6B7280" alt="Java">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=6B7280" alt="JavaScript">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=6B7280" alt="JavaScript">
         <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=6B7280" alt="Kotlin">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=6B7280" alt="MongoDB">
         <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&color=6B7280" alt="Firebase">
@@ -219,7 +210,7 @@
     </tr>
     <!-- TESTING -->
     <tr>
-      <td valign="middle"><b>🧪 Testing</b></td>
+      <td valign="middle"><b> Testing</b></td>
       <td>
         <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress">
         <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
@@ -228,11 +219,10 @@
     </tr>
     <!-- CI/CD & DEVOPS -->
     <tr>
-      <td valign="middle"><b>🚀 CI/CD & DevOps</b></td>
+      <td valign="middle"><b> CI/CD & DevOps</b></td>
       <td>
         <img src="https://shields.io" alt="Vercel">
         <img src="https://shields.io" alt="Docker">
-        
       </td>
     </tr>
   </tbody>
