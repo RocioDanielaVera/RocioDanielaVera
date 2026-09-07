@@ -215,8 +215,7 @@
         ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
         <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&color=6B7280" alt="Firebase">
         <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql">
-        <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=6B7280" alt="Supabase">
-        
+        <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=6B7280" alt="Supabase"> 
       </td>
     </tr>
     <!-- TESTING -->
