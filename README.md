@@ -79,7 +79,7 @@
       <br><br>
       <h3>Simulación Twitter</h3>
       <sup><font color="gray">Mobile App • iOS / Android</font></sup>
-      <p>Aplicación móvil nativa para el seguimiento de hábitos saludables y recordatorios de hidratación.</p>
+      <p>Clon funcional de Twitter (X) enfocado en arquitectura escalable, actualizaciones en tiempo real y simulando funciones nativas: creación de tweets, me gusta y retweets.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
         <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
@@ -128,7 +128,7 @@
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
-        <a href="#">📁Ver presentación - Aplicación próximamente en Github</a>
+        <a href="https://docs.google.com/presentation/d/1NNSThq90iku1FQhQiec85teteOR3be_A/edit?usp=sharing&ouid=116741454980326523508&rtpof=true&sd=true">📁Ver presentación - Próximamente aplicación en Github</a>
       </p>
       <br><br>
     </td>
