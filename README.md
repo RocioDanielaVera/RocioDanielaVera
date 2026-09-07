@@ -204,8 +204,8 @@
     <tr>
       <td valign="middle"><b> CI/CD & DevOps</b></td>
       <td>
-        <img src="https://devbio.me/api/tools/badges/vercel.svg" alt="Vercel">
-        <img src="https://devbio.me/api/tools/badges/docker.svg" alt="Docker">
+        <img src="https://img.shields.io/badge/vercel-brightgreen?style=for-the-badge&color=6B7280" alt="Vercel">
+        <img src="https://img.shields.io/badge/docker-brightgreen?style=for-the-badge&color=6B7280" alt="Docker">
       </td>
     </tr>
   </tbody>
