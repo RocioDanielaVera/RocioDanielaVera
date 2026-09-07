@@ -26,17 +26,17 @@
     <td width="33.3%" valign="top">
       <img src="https://placeholder.com" width="100%" alt="Preview 1" style="border-radius: 6px;">
       <br><br>
-      <h3>🚀 Proyecto Alfa</h3>
-      <sup><font color="gray">Aplicación Web • En producción</font></sup>
-      <p>Una plataforma intuitiva para gestionar tareas diarias con integraciones en tiempo real y notificaciones push.</p>
+      <h3>Argendar</h3>
+      <sup><font color="gray"> Fundación Pescar • Equipo de 8 • En desarrollo </font></sup>
+      <p>Aplicación Web. Conecta a clientes y profesionales tecnicos del hogar como plomería, electricidad y refrigeración.</p>
       <p>
         <img src="https://shields.io" alt="React">
         <img src="https://shields.io" alt="Firebase">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
-        <a href="#">📁 GitHub</a> • 
-        <a href="#">🌐 Web</a> • 
+        <a href="https://github.com/mauroezequielflores/argendar-integrador-pescar">📁 Ir al repositorio </a> • 
+        <a href="https://argendar-integrador-pescar.vercel.app/">🌐 Web</a> • 
         <a href="#">🎨 Figma</a>
       </p>
     </td>
