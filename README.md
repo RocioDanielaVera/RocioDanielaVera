@@ -208,14 +208,7 @@
     <tr>
       <td valign="middle"><b>⚙️ Backend & DBs</b></td>
       <td>
-        <img src="https://shields.io" alt="JavaScript">
-        <img src="https://shields.io" alt="NodeJS">
-        <img src="https://shields.io" alt="Java">
-        <img src="https://shields.io" alt="Kotlin">
-        <img src="https://shields.io" alt="MySQL">
-        <img src="https://shields.io" alt="MongoDB">
-        <img src="https://shields.io" alt="Firebase">
-        <img src="https://shields.io" alt="Supabase">
+        ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=6B7280" alt="Supabase">
       </td>
     </tr>
     <!-- TESTING -->
