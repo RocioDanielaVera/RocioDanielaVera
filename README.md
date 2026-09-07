@@ -221,9 +221,9 @@
     <tr>
       <td valign="middle"><b>🧪 Testing</b></td>
       <td>
-        <img src="https://shields.io" alt="Cypress">
-        <img src="https://shields.io" alt="Selenium">
-        <img src="https://shields.io" alt="Postman">
+        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress">
+        <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
       </td>
     </tr>
     <!-- CI/CD & DEVOPS -->
@@ -232,6 +232,7 @@
       <td>
         <img src="https://shields.io" alt="Vercel">
         <img src="https://shields.io" alt="Docker">
+        
       </td>
     </tr>
   </tbody>
