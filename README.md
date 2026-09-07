@@ -162,3 +162,79 @@
 <h4 align="left">Testing </h4>
 
  ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+
+ <h2 align="left">Tech Stack</h2>
+
+<table width="100%">
+  <thead>
+    <tr bgcolor="#1f2328">
+      <th width="25%" align="left">📂 Categoría</th>
+      <th width="75%" align="left">🛠️ Tecnologías</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- DISEÑO UX/UI -->
+    <tr>
+      <td valign="middle"><b>🎨 Diseño UX/UI</b></td>
+      <td>
+        <img src="https://shields.io" alt="Figma">
+        <img src="https://shields.io" alt="UX Pilot">
+      </td>
+    </tr>
+    <!-- ORGANIZACIÓN -->
+    <tr>
+      <td valign="middle"><b>📋 Organización</b></td>
+      <td>
+        <img src="https://shields.io" alt="Jira">
+        <img src="https://shields.io" alt="Notion">
+        <img src="https://shields.io" alt="Trello">
+      </td>
+    </tr>
+    <!-- FRONTEND -->
+    <tr>
+      <td valign="middle"><b>💻 Frontend</b></td>
+      <td>
+        <img src="https://shields.io" alt="HTML5">
+        <img src="https://shields.io" alt="CSS3">
+        <img src="https://shields.io" alt="React">
+        <img src="https://shields.io" alt="Vite">
+        <img src="https://shields.io" alt="TailwindCSS">
+        <img src="https://shields.io" alt="React Router">
+        <img src="https://shields.io" alt="React Hook Form">
+        <img src="https://shields.io" alt="Jetpack Compose">
+      </td>
+    </tr>
+    <!-- BACKEND & DATABASES -->
+    <tr>
+      <td valign="middle"><b>⚙️ Backend & DBs</b></td>
+      <td>
+        <img src="https://shields.io" alt="JavaScript">
+        <img src="https://shields.io" alt="NodeJS">
+        <img src="https://shields.io" alt="Java">
+        <img src="https://shields.io" alt="Kotlin">
+        <img src="https://shields.io" alt="MySQL">
+        <img src="https://shields.io" alt="MongoDB">
+        <img src="https://shields.io" alt="Firebase">
+        <img src="https://shields.io" alt="Supabase">
+      </td>
+    </tr>
+    <!-- TESTING -->
+    <tr>
+      <td valign="middle"><b>🧪 Testing</b></td>
+      <td>
+        <img src="https://shields.io" alt="Cypress">
+        <img src="https://shields.io" alt="Selenium">
+        <img src="https://shields.io" alt="Postman">
+      </td>
+    </tr>
+    <!-- CI/CD & DEVOPS -->
+    <tr>
+      <td valign="middle"><b>🚀 CI/CD & DevOps</b></td>
+      <td>
+        <img src="https://shields.io" alt="Vercel">
+        <img src="https://shields.io" alt="Docker">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
