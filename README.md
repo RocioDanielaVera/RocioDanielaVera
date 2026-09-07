@@ -1,5 +1,3 @@
-<img width="508" height="380" alt="Emprender" src="https://github.com/user-attachments/assets/1d8c62cb-3575-46aa-a0eb-2625d4c84540" />
-<img width="508" height="380" alt="Emprender" src="https://github.com/user-attachments/assets/6a17cf51-a106-46f3-af37-51de759bb7f4" />
 ![Banner de Rocio Vera](banner-rocio-vera.png)
 <h3 align="left">About Me</h3>
 <h2 align="left"></h2>
