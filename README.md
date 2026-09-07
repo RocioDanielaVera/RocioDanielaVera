@@ -54,7 +54,7 @@
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
-        <a href="https://github.com/RocioDanielaVera/DonacionesApp">📁 GitHub</a> 
+        <a href="https://github.com/RocioDanielaVera/DonacionesApp">📁 Ir al repositorio</a> 
       </p>
     </td>
     <!-- CARD 3 -->
@@ -69,12 +69,68 @@
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
-        <a href="https://github.com/RocioDanielaVera/cazadores-de-recompenzas-equipo">📁 GitHub</a> 
+        <a href="https://github.com/RocioDanielaVera/cazadores-de-recompenzas-equipo">📁 Ir al repositorio</a> 
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- CARD 4 -->
+    <td width="33.3%" valign="top">
+      <img src="https://placeholder.com](https://githubcard.com/unlam-tec-movil/A2-2025-H2-E1.svg?d=WZL8CQx9hBwQ" width="100%" alt="Preview 4" style="border-radius: 6px;">
+      <br><br>
+      <h3>Simulación Twitter</h3>
+      <sup><font color="gray">Mobile App • iOS / Android</font></sup>
+      <p>Aplicación móvil nativa para el seguimiento de hábitos saludables y recordatorios de hidratación.</p>
+      <p>
+        <img src="https://shields.io" alt="Flutter">
+        <img src="https://shields.io" alt="Dart">
+      </p>
+      <hr size="1" color="#eaecef">
+      <p align="center">
+        <a href="https://github.com/unlam-tec-movil/A2-2025-H2-E1">📁 Ir a repositorio</a> • <a href="#">🌐 App</a>
+      </p>
+    </td>
+    <!-- CARD 5 -->
+    <td width="33.3%" valign="top">
+      <img src="https://placeholder.com" width="100%" alt="Preview 5" style="border-radius: 6px;">
+      <br><br>
+      <h3>Hackathon - Patronato Play</h3>
+      <sup><font color="gray">JP Morgan Chase • UX/UI • Equipo de 6 • </font></sup>
+      <p> Solución para llegar al público joven. Transformamos el proceso de donación en una experiencia emocional/visible mediante un avatar que evoluciona con el impacto de cada contribución. </p>
+      <p>
+        <img src="https://shields.io" alt="React">
+        <img src="https://shields.io" alt="React">
+        <img src="https://shields.io" alt="Tanstack Query">
+        <img src="https://shields.io" alt="React Router Dom">
+        <img src="https://shields.io" alt="Java">
+        <img src="https://shields.io" alt="Springboot">
+      </p>
+      <hr size="1" color="#eaecef">
+      <p align="center">
+        <a href="https://www.figma.com/design/TM8AxzfW899PGVereOPLfX/Hackathon2026---Equipo-3?node-id=375-9593&t=47fcNc5Tfld08TWN-1">📁 Ir a Figma</a> 
+      </p>
+    </td>
+    <!-- CARD 6 -->
+    <td width="33.3%" valign="top">
+      <img src="https://placeholder.com" width="100%" alt="Preview 6" style="border-radius: 6px;">
+      <br><br>
+      <h3>Emprender</h3>
+      <sup><font color="gray">Talento Tech • UX • Equipo de 2 </font></sup>
+      <p> Aplicación móvil. Busca impulsar la venta de  emprendedores locales y expandir sus negocios a diferentes zonas de la cuidad de Buenos Aires.</p>
+      <p>
+        <img src="https://shields.io" alt="Kotlin">
+        <img src="https://shields.io" alt="Jetpack compose">
+        <img src="https://shields.io" alt="Firebase">
+        <img src="https://shields.io" alt="Room">
+        <img src="https://shields.io" alt="Google Maps API">
+      </p>
+      <hr size="1" color="#eaecef">
+      <p align="center">
+        <a href="#">📁Ver presentación - Aplicación próximamente en Github</a>
       </p>
     </td>
   </tr>
 </table>
-
 
 
 ###
