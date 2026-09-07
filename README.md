@@ -20,7 +20,7 @@
 <h2 align="left"></h2>
 <h3 align="left">Proyectos Destacados</h3>
 
-![GitHub Repo Card](https://githubcard.com/RocioDanielaVera/cazadores-de-recompenzas-equipo.svg)
+
 
 
 
