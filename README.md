@@ -76,14 +76,15 @@
   <tr>
     <!-- CARD 4 -->
     <td width="33.3%" valign="top">
-      <img src="https://placeholder.com](https://githubcard.com/unlam-tec-movil/A2-2025-H2-E1.svg?d=WZL8CQx9hBwQ" width="100%" alt="Preview 4" style="border-radius: 6px;">
+      <img src="https://githubcard.com/unlam-tec-movil/A2-2025-H2-E1.svg?d=WZL8CQx9hBwQ" width="100%" alt="Preview 4" style="border-radius: 6px;">
       <br><br>
       <h3>Simulación Twitter</h3>
       <sup><font color="gray">Mobile App • iOS / Android</font></sup>
       <p>Aplicación móvil nativa para el seguimiento de hábitos saludables y recordatorios de hidratación.</p>
       <p>
-        <img src="https://shields.io" alt="Flutter">
-        <img src="https://shields.io" alt="Dart">
+        <img src="https://shields.io" alt="Kotlin">
+        <img src="https://shields.io" alt="Jetpack-Compose">
+       <img src="https://shields.io" alt="Api-REST">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
@@ -98,9 +99,9 @@
       <sup><font color="gray">JP Morgan Chase • UX/UI • Equipo de 6 • </font></sup>
       <p> Solución para llegar al público joven. Transformamos el proceso de donación en una experiencia emocional/visible mediante un avatar que evoluciona con el impacto de cada contribución. </p>
       <p>
-        <img src="https://shields.io" alt="React">
-        <img src="https://shields.io" alt="React">
-        <img src="https://shields.io" alt="Tanstack Query">
+        <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=6B7280" alt="React">
+        <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=6B7280" alt="Javascript">
+        <img src="https://img.shields.io/badge/Tanstack%20Query-brightgreen?style=for-the-badge&color=6B7280" alt="Tanstack Query">
         <img src="https://shields.io" alt="React Router Dom">
         <img src="https://shields.io" alt="Java">
         <img src="https://shields.io" alt="Springboot">
