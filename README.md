@@ -170,9 +170,9 @@
       <td>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=6B7280" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=6B7280" alt="CSS3">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=6B7280" alt="React">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=6B7280" alt="React">
         <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=6B7280" alt="Vite">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=6B7280" alt="TailwindCSS">
         <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=6B7280" alt="React Router Dom">
         <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white&color=6B7280" alt="React Hook Form">
         <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
@@ -195,7 +195,7 @@
     <tr>
       <td valign="middle"><b> Testing</b></td>
       <td>
-        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e&color=6B7280" alt="Cypress">
+        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=white&color=6B7280" alt="Cypress">
         <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&color=6B7280" alt="Selenium">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=6B7280" alt="Postman">
       </td>
