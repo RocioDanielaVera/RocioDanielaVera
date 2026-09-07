@@ -1,6 +1,5 @@
 
 <h2 align="left">Sobre mi</h2>
-<h2 align="left"></h2>
 <p align="left">Desarrollador de software especializado en aplicaciones Android. Me centro en crear experiencias digitales intuitivas con una sólida visión del diseño UX y la automatización de procesos.</</p>
 
 ###
