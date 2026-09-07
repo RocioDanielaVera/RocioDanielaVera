@@ -84,9 +84,11 @@
       <sup><font color="gray">Mobile App • iOS / Android</font></sup>
       <p>Aplicación móvil nativa para el seguimiento de hábitos saludables y recordatorios de hidratación.</p>
       <p>
-        <img src="https://shields.io" alt="Kotlin">
-        <img src="https://shields.io" alt="Jetpack-Compose">
-       <img src="https://shields.io" alt="Api-REST">
+        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
+        <img src="https://img.shields.io/badge/API%20REST-brightgreen?style=for-the-badge&color=6B7280" alt="Api-REST">
+        <img src="https://img.shields.io/badge/Room-brightgreen?style=for-the-badge&color=6B7280" alt="Room">
+        <img src="https://img.shields.io/badge/Retrofit-brightgreen?style=for-the-badge&color=6B7280" alt="Retrofit">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
