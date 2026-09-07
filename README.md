@@ -59,19 +59,17 @@
     </td>
     <!-- CARD 3 -->
     <td width="33.3%" valign="top">
-      <img src="https://placeholder.com" width="100%" alt="Preview 3" style="border-radius: 6px;">
+      <img src="https://githubcard.com/RocioDanielaVera/cazadores-de-recompenzas-equipo.svg?d=Adu1YL92wMw5" width="100%" alt="Preview 3" style="border-radius: 6px;">
       <br><br>
-      <h3>🎨 Proyecto Gamma</h3>
-      <sup><font color="gray">UI/UX • Landing Page</font></sup>
-      <p>Diseño y desarrollo de una página de aterrizaje interactiva enfocada en la conversión de startups SaaS.</p>
+      <h3>Cazadores de recompezas</h3>
+      <sup><font color="gray">Academico • Sistema de gestión • Equipo de 2 </font></sup>
+      <p>Proyecto modela un sistema de registros de cazadores de recompensas y organización de capturas..</p>
       <p>
-        <img src="https://shields.io" alt="Tailwind">
-        <img src="https://shields.io" alt="Figma">
+        <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&color=6B7280" alt="java">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
-        <a href="#">📁 GitHub</a> • 
-        <a href="#">🎨 Figma</a>
+        <a href="https://github.com/RocioDanielaVera/cazadores-de-recompenzas-equipo">📁 GitHub</a> 
       </p>
     </td>
   </tr>
