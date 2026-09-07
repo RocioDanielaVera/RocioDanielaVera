@@ -43,19 +43,18 @@
     </td>
     <!-- CARD 2 -->
     <td width="33.3%" valign="top">
-      <img src="https://placeholder.com" width="100%" alt="Preview 2" style="border-radius: 6px;">
+      <img src="https://githubcard.com/RocioDanielaVera.svg?d=3T85rkkjrBPc" width="100%" alt="Preview 2" style="border-radius: 6px;">
       <br><br>
-      <h3>⚡ Proyecto Beta</h3>
-      <sup><font color="gray">Donaciones M</font></sup>
-      <p>API optimizada para e-commerce con pasarela de pagos integrada, manejo de inventario y autenticación JWT.</p>
+      <h3>Donaciones M</h3>
+      <sup><font color="gray"> Academico • UI/UX • Equipo de 5 </font></sup>
+      <p> Aplicación móvil.  Conecta a familias vulnerables y donatarios locales de alimentos u/o electrodomesticos para el hogar. </p>
       <p>
         <img src="https://shields.io" alt="Node">
         <img src="https://shields.io" alt="Mongo">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
-        <a href="#">📁 GitHub</a> • 
-        <a href="#">🌐 Web</a>
+        <a href="https://github.com/RocioDanielaVera/DonacionesApp">📁 GitHub</a> 
       </p>
     </td>
     <!-- CARD 3 -->
