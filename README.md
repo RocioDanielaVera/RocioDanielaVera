@@ -34,7 +34,8 @@
       <hr size="1" color="#eaecef">
       <p align="center">
         <a href="https://github.com/mauroezequielflores/argendar-integrador-pescar">📁 Ir al repositorio </a> • 
-        <a href="https://argendar-integrador-pescar.vercel.app/">🌐 Web</a> • 
+        <a href="https://argendar-integrador-pescar.vercel.app/">🌐 Web</a> 
+        <br><br>
       </p>
     </td>
     <!-- CARD 2 -->
@@ -52,6 +53,7 @@
       <p align="center">
         <a href="https://github.com/RocioDanielaVera/DonacionesApp">📁 Ir al repositorio</a> 
       </p>
+     <br><br>
     </td>
     <!-- CARD 3 -->
     <td width="33.3%" valign="top">
@@ -67,6 +69,7 @@
       <p align="center">
         <a href="https://github.com/RocioDanielaVera/cazadores-de-recompenzas-equipo">📁 Ir al repositorio</a> 
       </p>
+     <br><br>
     </td>
   </tr>
   <tr>
