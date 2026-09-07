@@ -97,7 +97,7 @@
       <br><br>
       <h3>Hackathon - Patronato Play</h3>
       <sup><font color="gray">JP Morgan Chase • UX/UI • Equipo de 6 • </font></sup>
-      <p> Transformamos el proceso de donación en una experiencia emocional/visible mediante un avatar que evoluciona con el impacto de cada donación. Nuestro objetivo es acercarnos a un publico joven/niños e impulsar su habito de donar</p>
+      <p> Transformamos el proceso de donación en una experiencia emocional mediante un avatar que evoluciona con el impacto de cada contribución. Nuestro objetivo es acercarnos a un publico joven/niños e impulsar su habito de donar</p>
       <p>
         <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=6B7280" alt="React">
         <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=6B7280" alt="Javascript">
