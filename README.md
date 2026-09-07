@@ -1,3 +1,4 @@
+
 ![Banner de Rocio Vera](banner-rocio-vera.png)
 <h3 align="left">About Me</h3>
 <h2 align="left"></h2>
@@ -77,7 +78,7 @@
   <tr>
     <!-- CARD 4 -->
     <td width="33.3%" valign="top">
-      <img src="https://githubcard.com/unlam-tec-movil/A2-2025-H2-E1.svg?d=WZL8CQx9hBwQ" width="100%" alt="Preview 4" style="border-radius: 6px;">
+      <img alt="Emprender (1)" src="https://github.com/user-attachments/assets/6562cf35-ae6c-4af7-8693-e8e725add8b0" width="100%" style="border-radius: 6px;">
       <br><br>
       <h3>Simulación Twitter</h3>
       <sup><font color="gray">Mobile App • iOS / Android</font></sup>
