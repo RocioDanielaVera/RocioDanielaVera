@@ -1,5 +1,5 @@
-<img width="1500" height="500" alt="7 (2)" src="https://github.com/user-attachments/assets/5c456c92-9a30-4176-8a75-7dc6e8b3ae75" />
-<h3 align="left">Sobre mi</h3>
+
+<h2 align="left">Sobre mi</h2>
 <h2 align="left"></h2>
 <p align="left">Desarrollador de software especializado en aplicaciones Android. Me centro en crear experiencias digitales intuitivas con una sólida visión del diseño UX y la automatización de procesos.</</p>
 
