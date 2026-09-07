@@ -1,3 +1,4 @@
+<img width="508" height="272" alt="Hackathon" src="https://github.com/user-attachments/assets/ee268aa3-c7a0-4ab5-b478-6273d764c625" />
 
 ![Banner de Rocio Vera](banner-rocio-vera.png)
 <h3 align="left">About Me</h3>
@@ -94,7 +95,7 @@
     </td>
     <!-- CARD 5 -->
     <td width="33.3%" valign="top">
-      <img src="https://placeholder.com" width="100%" alt="Preview 5" style="border-radius: 6px;">
+      <img src="https://github.com/user-attachments/assets/ee268aa3-c7a0-4ab5-b478-6273d764c625" width="100%" alt="Preview 5" style="border-radius: 6px;">
       <br><br>
       <h3>Hackathon - Patronato Play</h3>
       <sup><font color="gray">JP Morgan Chase • UX/UI • Equipo de 6 • </font></sup>
