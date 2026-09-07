@@ -88,8 +88,7 @@
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
-        <a href="https://github.com/unlam-tec-movil/A2-2025-H2-E1">📁 Ir a repositorio</a> • <a href="#">🌐 App</a>
-      </p>
+        <a href="https://github.com/unlam-tec-movil/A2-2025-H2-E1">📁 Ir a repositorio</a>
     </td>
     <!-- CARD 5 -->
     <td width="33.3%" valign="top">
