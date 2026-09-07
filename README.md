@@ -26,18 +26,17 @@
     <td width="33.3%" valign="top">
       <img src="https://placeholder.com" width="100%" alt="Preview 1" style="border-radius: 6px;">
       <br><br>
-      <h3>Argendar</h3>
+      <h3> Argendar</h3>
       <sup><font color="gray"> Fundación Pescar • Equipo de 8 • En desarrollo </font></sup>
       <p>Aplicación Web. Conecta a clientes y profesionales tecnicos del hogar como plomería, electricidad y refrigeración.</p>
       <p>
-        <img src="https://shields.io" alt="React">
+        <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=6B7280" alt="React">
         <img src="https://shields.io" alt="Firebase">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
         <a href="https://github.com/mauroezequielflores/argendar-integrador-pescar">📁 Ir al repositorio </a> • 
         <a href="https://argendar-integrador-pescar.vercel.app/">🌐 Web</a> • 
-        <a href="#">🎨 Figma</a>
       </p>
     </td>
     <!-- CARD 2 -->
@@ -45,7 +44,7 @@
       <img src="https://placeholder.com" width="100%" alt="Preview 2" style="border-radius: 6px;">
       <br><br>
       <h3>⚡ Proyecto Beta</h3>
-      <sup><font color="gray">API REST • Backend</font></sup>
+      <sup><font color="gray">Donaciones M</font></sup>
       <p>API optimizada para e-commerce con pasarela de pagos integrada, manejo de inventario y autenticación JWT.</p>
       <p>
         <img src="https://shields.io" alt="Node">
