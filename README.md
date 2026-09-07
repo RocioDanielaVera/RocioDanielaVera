@@ -22,44 +22,60 @@
 
 <table width="100%">
   <tr>
-    <!-- Columna 1 / Tarjeta 1 -->
+    <!-- CARD 1 -->
     <td width="33.3%" valign="top">
-      <div align="center">
-        <h3>Argendar</h3>
-        <p>Aplicación Web. Conecta a clientes y profesionales tecnicos del hogar como plomería, electricidad y refrigeración..</p>
-        <p>
-          <img src="https://shields.io" alt="React">
-          <img src="https://shields.io" alt="Tailwind">
-        </p>
-        <a href="#"><b>Ver Código →</b></a>
-      </div>
+      <img src="https://placeholder.com" width="100%" alt="Preview 1" style="border-radius: 6px;">
+      <br><br>
+      <h3>🚀 Proyecto Alfa</h3>
+      <sup><font color="gray">Aplicación Web • En producción</font></sup>
+      <p>Una plataforma intuitiva para gestionar tareas diarias con integraciones en tiempo real y notificaciones push.</p>
+      <p>
+        <img src="https://shields.io" alt="React">
+        <img src="https://shields.io" alt="Firebase">
+      </p>
+      <hr size="1" color="#eaecef">
+      <p align="center">
+        <a href="#">📁 GitHub</a> • 
+        <a href="#">🌐 Web</a> • 
+        <a href="#">🎨 Figma</a>
+      </p>
     </td>
-    <!-- Columna 2 / Tarjeta 2 -->
+    <!-- CARD 2 -->
     <td width="33.3%" valign="top">
-      <div align="center">
-        <h3>Donaciones M</h3>
-        <p>Aplicación móvil. Conecta a familias vulnerables y donatarios locales de alimentos u/o electrodomesticos para el hogar.</p>
-        <p>
-          <img src="https://shields.io" alt="Kotlin">
-          <img src="https://shields.io" alt="Jetpack Compose">
-        </p>
-        <a href="#"><b>Ver Código →</b></a>
-      </div>
+      <img src="https://placeholder.com" width="100%" alt="Preview 2" style="border-radius: 6px;">
+      <br><br>
+      <h3>⚡ Proyecto Beta</h3>
+      <sup><font color="gray">API REST • Backend</font></sup>
+      <p>API optimizada para e-commerce con pasarela de pagos integrada, manejo de inventario y autenticación JWT.</p>
+      <p>
+        <img src="https://shields.io" alt="Node">
+        <img src="https://shields.io" alt="Mongo">
+      </p>
+      <hr size="1" color="#eaecef">
+      <p align="center">
+        <a href="#">📁 GitHub</a> • 
+        <a href="#">🌐 Web</a>
+      </p>
     </td>
-    <!-- Columna 3 / Tarjeta 3 -->
+    <!-- CARD 3 -->
     <td width="33.3%" valign="top">
-      <div align="center">
-        <h3>Cazadores de recompenzas</h3>
-        <p>Breve descripción del tercer proyecto. Ideal para mostrar tu variedad de habilidades.</p>
-        <p>
-          <img src="https://shields.io" alt="Java">
-        </p>
-        <a href="#"><b>Ver Código →</b></a>
-      </div>
+      <img src="https://placeholder.com" width="100%" alt="Preview 3" style="border-radius: 6px;">
+      <br><br>
+      <h3>🎨 Proyecto Gamma</h3>
+      <sup><font color="gray">UI/UX • Landing Page</font></sup>
+      <p>Diseño y desarrollo de una página de aterrizaje interactiva enfocada en la conversión de startups SaaS.</p>
+      <p>
+        <img src="https://shields.io" alt="Tailwind">
+        <img src="https://shields.io" alt="Figma">
+      </p>
+      <hr size="1" color="#eaecef">
+      <p align="center">
+        <a href="#">📁 GitHub</a> • 
+        <a href="#">🎨 Figma</a>
+      </p>
     </td>
   </tr>
 </table>
-
 
 
 
