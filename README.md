@@ -49,8 +49,8 @@
       <sup><font color="gray"> Academico • UI/UX • Equipo de 5 </font></sup>
       <p> Aplicación móvil.  Conecta a familias vulnerables y donatarios locales de alimentos u/o electrodomesticos para el hogar. </p>
       <p>
-        <img src="https://shields.io" alt="Node">
-        <img src="https://shields.io" alt="Mongo">
+        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
