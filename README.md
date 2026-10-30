@@ -22,11 +22,11 @@
       <sup><font color="gray"> Fundación Pescar • Equipo de 8 • En desarrollo </font></sup>
       <p>Aplicación Web. Conecta a clientes y profesionales tecnicos del hogar como plomería, electricidad y refrigeración.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=6B7280" alt="React">
-        <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=6B7280" alt="Javascript">
-        <img src="https://img.shields.io/badge/Node-brightgreen?style=for-the-badge&color=6B7280" alt="Node">
-        <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=6B7280" alt="Supabase">
-        <img src="https://img.shields.io/badge/Google%20Maps%20Api-brightgreen?style=for-the-badge&color=6B7280" alt="Google Maps API">
+        <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=333D49" alt="React">
+        <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=333D49" alt="Javascript">
+        <img src="https://img.shields.io/badge/Node-brightgreen?style=for-the-badge&color=333D49" alt="Node">
+        <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=333D49" alt="Supabase">
+        <img src="https://img.shields.io/badge/Google%20Maps%20Api-brightgreen?style=for-the-badge&color=333D49" alt="Google Maps API">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
