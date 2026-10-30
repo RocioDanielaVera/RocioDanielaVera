@@ -12,7 +12,7 @@
 <h2 align="left"></h2>
 <h2 align="left">Proyectos Destacados</h2>
 
-<table width="100%" style="border-radius: 6px">
+<table width="100%">
   <tr>
     <!-- CARD 1 -->
     <td width="33.3%" valign="top">
