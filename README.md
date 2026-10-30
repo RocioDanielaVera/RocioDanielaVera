@@ -60,7 +60,7 @@
       <sup><font color="gray">Academico • Sistema de gestión • Equipo de 2 </font></sup>
       <p>Proyecto que modela un sistema de registros de cazadores de recompensas y organización de capturas.                           </p>
       <p>
-        <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&color=6B7280" alt="java">
+        <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&color=333D49" alt="java">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
@@ -78,11 +78,11 @@
       <sup><font color="gray">Mobile App • iOS / Android</font></sup>
       <p>Clon funcional de Twitter (X) enfocado en arquitectura escalable, actualizaciones en tiempo real y simulando funciones nativas: creación de tweets, me gusta, retweets y más.</p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
-        <img src="https://img.shields.io/badge/API%20REST-brightgreen?style=for-the-badge&color=6B7280" alt="Api-REST">
-        <img src="https://img.shields.io/badge/Room-brightgreen?style=for-the-badge&color=6B7280" alt="Room">
-        <img src="https://img.shields.io/badge/Retrofit-brightgreen?style=for-the-badge&color=6B7280" alt="Retrofit">
+        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=333D49" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=333D49" alt="Jetpack-compose">
+        <img src="https://img.shields.io/badge/API%20REST-brightgreen?style=for-the-badge&color=333D49" alt="Api-REST">
+        <img src="https://img.shields.io/badge/Room-brightgreen?style=for-the-badge&color=333D49" alt="Room">
+        <img src="https://img.shields.io/badge/Retrofit-brightgreen?style=for-the-badge&color=333D49" alt="Retrofit">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
