@@ -43,8 +43,8 @@
       <sup><font color="gray"> Academico • UI/UX • Equipo de 5 </font></sup>
       <p> Aplicación móvil.  Conecta a familias vulnerables y donatarios locales de alimentos u/o electrodomesticos para el hogar. </p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
+        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=333D49" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=333D49" alt="Jetpack-compose">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
@@ -96,12 +96,12 @@
       <sup><font color="gray">JP Morgan Chase • UX/UI • Equipo de 6 • </font></sup>
       <p> Transformamos el proceso de donación en una experiencia emocional mediante un avatar que evoluciona con el impacto de cada contribución. Nuestro objetivo es acercarnos a un publico joven/niños e impulsar su habito de donar</p>
       <p>
-        <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=6B7280" alt="React">
-        <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=6B7280" alt="Javascript">
-        <img src="https://img.shields.io/badge/Tanstack%20Query-brightgreen?style=for-the-badge&color=6B7280" alt="Tanstack Query">
-        <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=6B7280" alt="React Router Dom">
-        <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&color=6B7280" alt="java">
-        <img src="https://img.shields.io/badge/Spring%20boot-brightgreen?style=for-the-badge&color=6B7280" alt="Springboot">
+        <img src="https://img.shields.io/badge/React-brightgreen?style=for-the-badge&color=333D49" alt="React">
+        <img src="https://img.shields.io/badge/Javascript-brightgreen?style=for-the-badge&color=333D49" alt="Javascript">
+        <img src="https://img.shields.io/badge/Tanstack%20Query-brightgreen?style=for-the-badge&color=333D49" alt="Tanstack Query">
+        <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=333D49" alt="React Router Dom">
+        <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&color=333D49" alt="java">
+        <img src="https://img.shields.io/badge/Spring%20boot-brightgreen?style=for-the-badge&color=333D49" alt="Springboot">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
@@ -117,11 +117,11 @@
       <sup><font color="gray">Talento Tech • UX • Equipo de 2 </font></sup>
       <p> Aplicación móvil. Busca impulsar la venta de emprendedores locales y expandir sus negocios a diferentes zonas de la cuidad de Buenos Aires.</p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=6B7280" alt="Kotlin">
-        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
-        <img src="https://img.shields.io/badge/firebase-brightgreen?style=for-the-badge&color=6B7280" alt="Firebase">
-        <img src="https://img.shields.io/badge/Room-brightgreen?style=for-the-badge&color=6B7280" alt="Room">
-        <img src="https://img.shields.io/badge/Google%20Maps%20Api-brightgreen?style=for-the-badge&color=6B7280" alt="Google Maps API">
+        <img src="https://img.shields.io/badge/Kotlin-brightgreen?style=for-the-badge&color=333D49" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=333D49" alt="Jetpack-compose">
+        <img src="https://img.shields.io/badge/firebase-brightgreen?style=for-the-badge&color=333D49" alt="Firebase">
+        <img src="https://img.shields.io/badge/Room-brightgreen?style=for-the-badge&color=333D49" alt="Room">
+        <img src="https://img.shields.io/badge/Google%20Maps%20Api-brightgreen?style=for-the-badge&color=333D49" alt="Google Maps API">
       </p>
       <hr size="1" color="#eaecef">
       <p align="center">
@@ -150,61 +150,61 @@
     <tr>
       <td valign="middle"><b> Diseño UX/UI</b></td>
       <td>
-        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=6B7280" alt="Figma">
-        <img src="https://img.shields.io/badge/ux%20pilot-brightgreen?style=for-the-badge&color=6B7280" alt="ux-pilot">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=333D49" alt="Figma">
+        <img src="https://img.shields.io/badge/ux%20pilot-brightgreen?style=for-the-badge&color=333D49" alt="ux-pilot">
       </td>
     </tr>
     <!-- ORGANIZACIÓN -->
     <tr>
       <td valign="middle"><b> Organización</b></td>
       <td>
-        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&color=6B7280" alt="Jira">
-        <img src="https://img.shields.io/badge/NOTION-brightgreen?style=for-the-badge&color=6B7280" alt="Notion">
-        <img src="https://img.shields.io/badge/Trello-brightgreen?style=for-the-badge&color=6B7280" alt="Trello">
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&color=333D49" alt="Jira">
+        <img src="https://img.shields.io/badge/NOTION-brightgreen?style=for-the-badge&color=333D49" alt="Notion">
+        <img src="https://img.shields.io/badge/Trello-brightgreen?style=for-the-badge&color=333D49" alt="Trello">
       </td>
     </tr>
     <!-- FRONTEND -->
     <tr>
       <td valign="middle"><b> Frontend</b></td>
       <td>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=6B7280" alt="HTML5">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=6B7280" alt="CSS3">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=6B7280" alt="React">
-        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=6B7280" alt="Vite">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=6B7280" alt="TailwindCSS">
-        <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=6B7280" alt="React Router Dom">
-        <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white&color=6B7280" alt="React Hook Form">
-        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=6B7280" alt="Jetpack-compose">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=333D49" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=333D49" alt="CSS3">
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&color=333D49" alt="React">
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&color=333D49" alt="Vite">
+        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=333D49" alt="TailwindCSS">
+        <img src="https://img.shields.io/badge/React%20router%20dom-brightgreen?style=for-the-badge&color=333D49" alt="React Router Dom">
+        <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white&color=333D49" alt="React Hook Form">
+        <img src="https://img.shields.io/badge/Jetpack%20compose-brightgreen?style=for-the-badge&color=333D49" alt="Jetpack-compose">
       </td>
     </tr>
     <!-- BACKEND & DATABASES -->
     <tr>
       <td valign="middle"><b> Backend & DBs</b></td>
       <td>
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=6B7280" alt="Java">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=6B7280" alt="JavaScript">
-        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=6B7280" alt="Kotlin">
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=6B7280" alt="MongoDB">
-        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&color=6B7280" alt="Firebase">
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=6B7280" alt="MySql">
-        <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=6B7280" alt="Supabase"> 
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=333D49" alt="Java">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=333D49" alt="JavaScript">
+        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=333D49" alt="Kotlin">
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=333D49" alt="MongoDB">
+        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&color=333D49" alt="Firebase">
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=333D49" alt="MySql">
+        <img src="https://img.shields.io/badge/Supabase-brightgreen?style=for-the-badge&color=333D49" alt="Supabase"> 
       </td>
     </tr>
     <!-- TESTING -->
     <tr>
       <td valign="middle"><b> Testing</b></td>
       <td>
-        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=white&color=6B7280" alt="Cypress">
-        <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&color=6B7280" alt="Selenium">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=6B7280" alt="Postman">
+        <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=white&color=333D49" alt="Cypress">
+        <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white&color=333D49" alt="Selenium">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&color=333D49" alt="Postman">
       </td>
     </tr>
     <!-- CI/CD & DEVOPS -->
     <tr>
       <td valign="middle"><b> CI/CD & DevOps</b></td>
       <td>
-        <img src="https://img.shields.io/badge/vercel-brightgreen?style=for-the-badge&color=6B7280" alt="Vercel">
-        <img src="https://img.shields.io/badge/docker-brightgreen?style=for-the-badge&color=6B7280" alt="Docker">
+        <img src="https://img.shields.io/badge/vercel-brightgreen?style=for-the-badge&color=333D49" alt="Vercel">
+        <img src="https://img.shields.io/badge/docker-brightgreen?style=for-the-badge&color=333D49" alt="Docker">
       </td>
     </tr>
   </tbody>
