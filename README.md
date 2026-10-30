@@ -1,3 +1,4 @@
+<img width="736" height="237" alt="download (3)" src="https://github.com/user-attachments/assets/93dd4304-a8d2-4609-bd9a-eb0eee537dc5" />
 
 <h2 align="left">Sobre mi</h2>
 <p align="left">Desarrolladora software especializada en aplicaciones Android. Me centro en crear experiencias digitales intuitivas con una sólida visión del diseño UX y la automatización de procesos.</</p>
