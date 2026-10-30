@@ -1,4 +1,4 @@
-<img width="934" height="214" alt="هيدر" src="https://github.com/user-attachments/assets/5b0e1ff4-c251-439b-be5c-dc8c5b111ac4" />
+<img width="1134" height="214" alt="هيدر" src="https://github.com/user-attachments/assets/5b0e1ff4-c251-439b-be5c-dc8c5b111ac4" />
 
 
 <h2 align="left">Sobre mi</h2>
