@@ -1,4 +1,5 @@
-<img width="736" height="237" alt="download (3)" src="https://github.com/user-attachments/assets/93dd4304-a8d2-4609-bd9a-eb0eee537dc5" />
+<img width="934" height="214" alt="هيدر" src="https://github.com/user-attachments/assets/5b0e1ff4-c251-439b-be5c-dc8c5b111ac4" />
+
 
 <h2 align="left">Sobre mi</h2>
 <p align="left">Desarrolladora software especializada en aplicaciones Android. Me centro en crear experiencias digitales intuitivas con una sólida visión del diseño UX y la automatización de procesos.</</p>
