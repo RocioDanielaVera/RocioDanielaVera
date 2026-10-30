@@ -8,9 +8,6 @@
 <h3 align="left">¿Qué me motiva?</h3>
 <p align="left">Me apasiona resolver problemas del mundo real mediante la programación. Ya sea automatizando procesos tediosos o diseñando interfaces de usuario atractivas</p>
 
-
-###
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=RocioDanielaVera&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=RocioDanielaVera&include_all_commits=true&theme=dark)
 ### 
 <h2 align="left"></h2>
 <h2 align="left">Proyectos Destacados</h2>
