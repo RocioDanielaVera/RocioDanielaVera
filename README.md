@@ -32,8 +32,8 @@
       <p align="center">
         <a href="https://github.com/mauroezequielflores/argendar-integrador-pescar">📁 Ir al repositorio </a> • 
         <a href="https://argendar-integrador-pescar.vercel.app/">🌐 Web</a> 
-        <br><br>
       </p>
+    <br><br>
     </td>
     <!-- CARD 2 -->
     <td width="33.3%" valign="top">
