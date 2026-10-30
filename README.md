@@ -37,7 +37,7 @@
     </td>
     <!-- CARD 2 -->
     <td width="33.3%" valign="top">
-      <img src="https://githubcard.com/RocioDanielaVera.svg?d=3T85rkkjrBPc" width="100%" alt="Preview 2" style="border-radius: 6px;">
+      <img src="https://githubcard.com/mauroezequielflores.svg?d=hF61TXDPslau" width="100%" alt="Preview 1" style="border-radius: 6px;">
       <br><br>
       <h3>Donaciones M</h3>
       <sup><font color="gray"> Academico • UI/UX • Equipo de 5 </font></sup>
